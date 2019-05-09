@@ -10,11 +10,11 @@
 <ul>
 <li><strong>SSIM(Structural Similarity)</strong></li>
 </ul>
-<p style="padding-left: 60px;">計算兩張影像之間的結構相似度，比對畫面的明度(luminance)、對比(contrast)與結構(structure)。SSIM會輸出0~1之間的數值，數值越接近於1，表示兩張影像越相似。</p>
+<p style="padding-left: 120px;">計算兩張影像之間的結構相似度，比對畫面的明度(luminance)、對比(contrast)與結構(structure)。SSIM會輸出0~1之間的數值，數值越接近於1，表示兩張影像越相似。</p>
 <ul>
 <li><strong>MSSIM(Mean Structural Similarity)</strong></li>
 </ul>
-<p style="padding-left: 60px;">SSIM是計算整張影像的mean與standard deviation，而MSSIM是將影像切成多個window，計算local window的mean&amp;std，將會得到更可靠的結構相似度結果。</p>
+<p style="padding-left: 120px;">SSIM是計算整張影像的mean與standard deviation，而MSSIM是將影像切成多個window，計算local window的mean&amp;std，將會得到更可靠的結構相似度結果。</p>
 <p>&nbsp;</p>
 <p>&nbsp;詳細計算公式可參考 :&nbsp;<a href="https://arxiv.org/pdf/1902.06068.pdf">https://arxiv.org/pdf/1902.06068.pdf</a></p>
 <p>&nbsp;</p>
