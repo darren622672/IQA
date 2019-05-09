@@ -1,4 +1,4 @@
-<h3 style="text-align: center;"><strong>Python Code (PSNR, SSIM, MSSIM)</strong></h3>
+<h4 style="text-align: center;"><strong>Python Code (PSNR, SSIM, MSSIM)</strong></h4>
 <h3><strong>IQA(image quality assessment)方法通常</strong>可以分為兩類:</h3>
 <p>1) <span style="color: #000000;"><strong>subjective methods&nbsp;</strong></span>: 基於人眼觀察的感知結果來做評估。</p>
 <p>2) <span style="color: #000000;"><strong>objective methods&nbsp;</strong></span>: 基於數學計算來判別影像品質。</p>
